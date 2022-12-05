@@ -2,6 +2,8 @@
 
 ## UML Use Case
 
+![img](https://i.postimg.cc/DyWB9C3H/image.png)
+
 ### Участники (actors) и цели (goals)
 
 | Участник  | Категория  | Цель (goal) |
