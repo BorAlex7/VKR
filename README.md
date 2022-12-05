@@ -45,4 +45,6 @@
 
 ## UML Use Class
 
+![img](https://i.postimg.cc/DyWB9C3H/image.png)
+
 ## UML Use Sequence
